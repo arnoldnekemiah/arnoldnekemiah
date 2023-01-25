@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arnoldnekemiah
 - 👀 I’m interested in web, android development and machine learning
-- 🌱 I’m currently learning  android developement
-- 💞️ I’m looking to collaborate on ....
+- 🌱 I’m currently in a microverse bootcamp for software engineering.
+- 💞️ I’m looking to collaborate on web development and maintainance.
 - 📫 You can reach me through my email ; arnoldnek@gmail.com 
 
 <!---
