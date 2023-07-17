@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/arnoldikonde" target="blank"><img src="https://img.shields.io/twitter/follow/arnoldnekemiah?logo=twitter&style=for-the-badge" alt="arnoldnekemiah" /></a> </p>
 
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 As a web developer am comfortable with the following tech stacks: **JavaScript**, **React and Redux**, **Ruby and Ruby on Rails**
 - 🌱 I'm a skilled Android developer who uses **Kotlin** for developing mobile applications.
 - 🌱 I'm also knowledgeable with linux environment
 
