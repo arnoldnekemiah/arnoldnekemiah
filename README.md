@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ikonde Nekemiah Arnold</h1>
 <h3 align="center">A passionate Web and Android developer from Uganda</h3>
 
-<p align="left"> <img src="https://stock.adobe.com/search?k=programmer+cartoon" alt="i-nad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnoldnekemiah&label=Profile%20views&color=0e75b6&style=flat" alt="i-nad" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e474qs7p4sxyvc96ysgbsnvkf5v655umtvvgux1i7ob&rid=200.webp&ct=g">
 
