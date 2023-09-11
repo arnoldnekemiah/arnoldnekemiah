@@ -9,8 +9,8 @@
 
 
 - 🌱 As a web developer am comfortable with the following tech stacks: **JavaScript**, **React and Redux**, **Ruby and Ruby on Rails**
-- 🌱 I'm a skilled Android developer who uses **Kotlin** for developing mobile applications.
-- 🌱 I'm also knowledgeable with linux environment
+- 🌱 I'm a skilled Android developer who uses **Kotlin** and **Java** for developing mobile applications.
+- 🌱 I'm also knowledgeable with Linux environment
 
 - 📫 How to reach me **arnoldnek@gmail.com**
 
