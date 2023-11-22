@@ -12,6 +12,8 @@
 - 🌱 I'm a skilled Android developer who uses **Kotlin** and **Java** for developing mobile applications.
 - 🌱 I'm also knowledgeable with Linux environment
 
+- [![committers.top badge](https://user-badge.committers.top/uganda/arnoldnekemiah.svg)](https://user-badge.committers.top/uganda/arnoldnekemiah)
+
 - 📫 How to reach me **arnoldnek@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
