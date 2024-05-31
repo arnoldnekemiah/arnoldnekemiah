@@ -9,7 +9,7 @@
 
 
 - 🌱 As a web developer am comfortable with the following tech stacks: **JavaScript**, **React and Redux**, **Ruby and Ruby on Rails**
-- 🌱 I'm a skilled Android developer who uses **Kotlin** and **Java** for developing mobile applications.
+- 🌱 I develop mobile applications using **Kotlin** , **Java** and **flutter** 
 - 🌱 I'm also knowledgeable with Linux environment
 
 - [![committers.top badge](https://user-badge.committers.top/uganda/arnoldnekemiah.svg)](https://user-badge.committers.top/uganda/arnoldnekemiah)
