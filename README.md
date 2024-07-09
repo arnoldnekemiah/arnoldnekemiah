@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ikonde Nekemiah Arnold</h1>
-<h3 align="center">A passionate Web and Android developer from Uganda</h3>
+<h3 align="center">A passionate Web and Mobile App developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnoldnekemiah&label=Profile%20views&color=0e75b6&style=flat" alt="i-nad" /> </p>
 
@@ -11,8 +11,6 @@
 - 🌱 As a web developer am comfortable with the following tech stacks: **JavaScript**, **React and Redux**, **Ruby and Ruby on Rails**
 - 🌱 I develop mobile applications using **Kotlin** , **Java** and **flutter** 
 - 🌱 I'm also knowledgeable with Linux environment
-
-- [![committers.top badge](https://user-badge.committers.top/uganda/arnoldnekemiah.svg)](https://user-badge.committers.top/uganda/arnoldnekemiah)
 
 - 📫 How to reach me **arnoldnek@gmail.com**
 
