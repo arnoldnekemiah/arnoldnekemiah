@@ -30,10 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnoldnekemiah&show_icons=true&locale=en" alt="arnold nekemiah" /></p>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=arnoldnekemiah&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
