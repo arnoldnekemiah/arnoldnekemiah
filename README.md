@@ -6,7 +6,6 @@
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e474qs7p4sxyvc96ysgbsnvkf5v655umtvvgux1i7ob&rid=200.webp&ct=g">
 
 <p align="left"> <a href="https://twitter.com/arnoldikonde" target="blank"><img src="https://img.shields.io/twitter/follow/arnoldnekemiah?logo=twitter&style=for-the-badge" alt="arnoldnekemiah" /></a> </p>
-[![committers.top badge](https://user-badge.committers.top/uganda/arnoldnekemiah.svg)](https://user-badge.committers.top/uganda/arnoldnekemiah)
 
 - 🌱 As a web developer am comfortable with the following tech stacks: **JavaScript**, **React and Redux**, **Ruby and Ruby on Rails**
 - 🌱 I develop mobile applications using **Kotlin** , **Java** and **flutter** 
